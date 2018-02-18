@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_usr_length">20</integer>
+    <integer name="max_pwd_length">16</integer>
+    <integer name="max_email_length">50</integer>
+    <integer name="max_phone_length">10</integer>
+    <integer name="max_cellphone_length">11</integer>
+    <integer name="padrao">45</integer>
+    <integer name="max_cpf_length">11</integer>
+    <integer name="max_rg_length">9</integer>
+    <integer name="max_passaporte_length">9</integer>
+    <integer name="max_cep_length">8</integer>
+    <integer name="max_estado_length">2</integer>
+</resources>
